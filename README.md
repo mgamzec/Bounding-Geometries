@@ -25,8 +25,3 @@ To use these scripts, you'll need Python installed on your system along with lib
 - Python 3.x
 - Libraries: `geopandas`, `shapely`, `scipy.spatial`, `numpy`, `alphashape`, `smallestenclosingcircle`, etc.
 
-### Running the Scripts
-
-1. Clone this repository to your local machine.
-2. Install the required libraries.
-3. Run the desired script with the appropriate shapefile as input.
